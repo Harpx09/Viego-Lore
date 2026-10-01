@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(18, 175, 199);
+    background-image: url(Img/Viego\ banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: black;
+    background-color: bisque;
+    text-align: center;
+}
+h2{
+    color: black;
+    background-color: bisque;
+    width: 630px;
+}
+h3{
+    color: black;
+    background-color: rgb(0, 183, 255);
+    width: 80px;
+}
+img{
+    width: 200px;
+    align-items: center; 
+}
+div{
+    width: 200px;
+}
